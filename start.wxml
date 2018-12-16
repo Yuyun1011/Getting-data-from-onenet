@@ -1,0 +1,7 @@
+<!--start.wxml-->
+
+
+
+<button class="btn1" bindtap="getDataFromOneNet">
+
+睁眼看心率(OneNet)</button>
